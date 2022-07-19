@@ -4,8 +4,6 @@ import requests
 import csv
 import json
 
-from sympy import ff
-
 def get_data():
     data = {}
     try:
